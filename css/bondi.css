@@ -8,7 +8,6 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  height: 10000px;
 }
 
 .main-btn {
@@ -244,4 +243,39 @@ body {
   background-color: var(--dark-color, #19283f);
   color: var(--yellow-color);
 }
+
 /* End Subscribe */
+
+/* Start Footer */
+
+.footer {
+  background-color: var(--dark-color, #19283f);
+}
+
+.footer .copyright > span {
+  color: var(--green-color, #33d1cc);
+}
+
+.footer .copyright div span {
+  color: var(--yellow-color, #ffc400);
+}
+
+.footer .contact ul svg {
+  width: 20px;
+  height: 20px;
+}
+
+.footer .facebook-icon {
+  background-color: #1877f2;
+}
+.footer .twitter-icon {
+  background-color: #1da1f2;
+}
+.footer .linkedin-icon {
+  background-color: #0a66c2;
+}
+.footer .youtube-icon {
+  background-color: #ff0000;
+}
+
+/* End Footer */
