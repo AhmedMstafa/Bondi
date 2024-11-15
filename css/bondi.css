@@ -17,10 +17,6 @@ body {
   padding: 0.5rem 1rem;
 }
 
-.main-btn:hover {
-  color: white;
-}
-
 .main-title::before {
   content: "";
   width: 120px;
@@ -43,6 +39,10 @@ body {
 }
 
 .navbar .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar .main-btn:hover {
   color: white;
 }
 
