@@ -204,3 +204,11 @@ body {
 }
 
 /* End Team */
+
+/* Start Project */
+
+.project {
+  background-color: var(--dark-color);
+}
+
+/* End Project */
