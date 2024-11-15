@@ -212,3 +212,11 @@ body {
 }
 
 /* End Project */
+
+/* Start Blog */
+
+.blog .card {
+  border: none;
+}
+
+/* End Blog */
