@@ -1,6 +1,6 @@
 # Bondi
 
-The Bondi Project is a modern and responsive web template developed as part of Osama Elzero's web development tutorials. This project focuses on creating a stylish and functional website using HTML, CSS, and JavaScript, with an emphasis on responsive design and user experience.
+The Bondi Project is a modern and responsive web template developed as part of Osama Elzero's web development tutorials. This project focuses on creating a stylish and functional website using HTML, CSS, and , with an emphasis on responsive design and user experience.
 
 ## Project Overview
 
